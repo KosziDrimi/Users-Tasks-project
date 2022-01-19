@@ -1,0 +1,11 @@
+.env
+*.exe
+*.pyc
+*.pyo
+venv/
+venv*
+.coverage
+*cov/
+database.sqlite
+.idea/
+*.csv
