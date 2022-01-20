@@ -1,4 +1,4 @@
-# TasksApp
+# Tasks API 
 
 Simple programme offering the possibility to:
 - download data from the [link](https://jsonplaceholder.typicode.com/) API,
